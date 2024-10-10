@@ -5,3 +5,5 @@
 2. 
 
 ##EDA
+1. Feature_Scaling
+2. 
